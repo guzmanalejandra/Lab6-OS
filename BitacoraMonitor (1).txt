@@ -1,0 +1,368 @@
+Thread iniciado id: 3061 
+Iniciando loop dentro del thread3061
+Iteracion 0 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 99
+Desbloquar mutex
+Iteracion 1 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 98
+Desbloquar mutex
+Iteracion 2 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 97
+Desbloquar mutex
+Iteracion 3 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 96
+Desbloquar mutex
+Iteracion 4 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 95
+Desbloquar mutex
+Iteracion 5 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 94
+Desbloquar mutex
+Iteracion 6 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 93
+Desbloquar mutex
+Iteracion 7 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 92
+Desbloquar mutex
+Iteracion 8 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 91
+Desbloquar mutex
+Iteracion 9 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 90
+Desbloquar mutex
+Iteracion 10 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 89
+Desbloquar mutex
+Iteracion 11 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 88
+Desbloquar mutex
+Iteracion 12 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 87
+Desbloquar mutex
+Iteracion 13 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 86
+Desbloquar mutex
+Iteracion 14 en el thread 3061
+Mutex bloqueado por el Thread ID: 3061
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 85
+Desbloquar mutex
+Thread iniciado id: 3063 
+Iniciando loop dentro del thread3063
+Iteracion 0 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 84
+Desbloquar mutex
+Iteracion 1 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 83
+Desbloquar mutex
+Iteracion 2 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 82
+Desbloquar mutex
+Iteracion 3 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 81
+Desbloquar mutex
+Iteracion 4 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 80
+Desbloquar mutex
+Iteracion 5 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 79
+Desbloquar mutex
+Iteracion 6 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 78
+Desbloquar mutex
+Iteracion 7 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 77
+Desbloquar mutex
+Iteracion 8 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 76
+Desbloquar mutex
+Iteracion 9 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 75
+Desbloquar mutex
+Iteracion 10 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 74
+Desbloquar mutex
+Iteracion 11 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 73
+Desbloquar mutex
+Iteracion 12 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 72
+Desbloquar mutex
+Iteracion 13 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 71
+Desbloquar mutex
+Iteracion 14 en el thread 3063
+Mutex bloqueado por el Thread ID: 3063
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 70
+Desbloquar mutex
+Thread iniciado id: 3064 
+Iniciando loop dentro del thread3064
+Iteracion 0 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 69
+Desbloquar mutex
+Iteracion 1 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 68
+Desbloquar mutex
+Iteracion 2 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 67
+Desbloquar mutex
+Iteracion 3 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 66
+Desbloquar mutex
+Iteracion 4 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 65
+Desbloquar mutex
+Iteracion 5 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 64
+Desbloquar mutex
+Iteracion 6 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 63
+Desbloquar mutex
+Iteracion 7 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 62
+Desbloquar mutex
+Iteracion 8 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 61
+Desbloquar mutex
+Iteracion 9 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 60
+Desbloquar mutex
+Iteracion 10 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 59
+Desbloquar mutex
+Iteracion 11 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 58
+Desbloquar mutex
+Iteracion 12 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 57
+Desbloquar mutex
+Iteracion 13 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 56
+Desbloquar mutex
+Iteracion 14 en el thread 3064
+Mutex bloqueado por el Thread ID: 3064
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 55
+Desbloquar mutex
+Thread iniciado id: 3062 
+Iniciando loop dentro del thread3062
+Iteracion 0 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 54
+Desbloquar mutex
+Iteracion 1 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 53
+Desbloquar mutex
+Iteracion 2 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 52
+Desbloquar mutex
+Iteracion 3 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 51
+Desbloquar mutex
+Iteracion 4 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 50
+Desbloquar mutex
+Iteracion 5 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 49
+Desbloquar mutex
+Iteracion 6 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 48
+Desbloquar mutex
+Iteracion 7 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 47
+Desbloquar mutex
+Iteracion 8 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 46
+Desbloquar mutex
+Iteracion 9 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 45
+Desbloquar mutex
+Iteracion 10 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 44
+Desbloquar mutex
+Iteracion 11 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 43
+Desbloquar mutex
+Iteracion 12 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 42
+Desbloquar mutex
+Iteracion 13 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 41
+Desbloquar mutex
+Iteracion 14 en el thread 3062
+Mutex bloqueado por el Thread ID: 3062
+Bloqueando Mutex 
+Recurso tomado
+Recursos restantes 40
+Desbloquar mutex
